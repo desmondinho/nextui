@@ -1,5 +1,11 @@
 # @nextui-org/dropdown
 
+## 2.1.30
+
+### Patch Changes
+
+- [#2598](https://github.com/nextui-org/nextui/pull/2598) [`4f8ae50cf`](https://github.com/nextui-org/nextui/commit/4f8ae50cf441da5b5685b6573714a3f7c9ab3ea2) Thanks [@gtoxlili](https://github.com/gtoxlili)! - fix(dropdown): respect closeOnSelect prop on DropdownItem (#2290)
+
 ## 2.1.29
 
 ### Patch Changes
